@@ -1,0 +1,9 @@
+faster-whisper==1.2.1
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+librosa==0.11.0
+numpy==2.4.6
+pytest==9.1.1
+ruff==0.17.0
+scipy==1.17.1
+soundfile==0.14.0
