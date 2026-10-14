@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "verify_cli_sample",
+  "transcript": "Hello world this is a test speech delivery.",
+  "duration_seconds": 3.2,
+  "alignment": "word",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "um,",
+      "features": {
+        "f0_median_st": 2.3000000000000003,
+        "f0_range_st": 2.219999999999996,
+        "rms_relative_db": -0.39882132411003113,
+        "speech_rate_wpm": 113.2075471698113,
+        "whisper_avg_logprob": -0.7656228840351105,
+        "pause_after_seconds": 0.0
+      }
+    },
+    {
+      "start": 0.18,
+      "end": 1.16,
+      "text": "hmm",
+      "features": {
+        "f0_median_st": -0.4000000000000028,
+        "f0_range_st": 6.799999999999999,
+        "rms_relative_db": -0.08423726260662079,
+        "speech_rate_wpm": 110.59907834101382,
+        "whisper_avg_logprob": -0.26068743211882456,
+        "pause_after_seconds": 0.0
+      }
+    },
+    {
+      "start": 1.16,
+      "end": 2.08,
+      "text": "hmm",
+      "features": {
+        "f0_median_st": -0.8000000000000008,
+        "f0_range_st": 6.700000000000003,
+        "rms_relative_db": -0.08459863066673279,
+        "speech_rate_wpm": 100.0,
+        "whisper_avg_logprob": -0.26068743211882456,
+        "pause_after_seconds": 0.0
+      }
+    },
+    {
+      "start": 2.08,
+      "end": 2.64,
+      "text": "hmm",
+      "features": {
+        "f0_median_st": 0.5000000000000008,
+        "f0_range_st": 6.799999999999999,
+        "rms_relative_db": -0.08607740700244904,
+        "speech_rate_wpm": 102.56410256410257,
+        "whisper_avg_logprob": -0.26068743211882456,
+        "pause_after_seconds": 0.0
+      }
+    },
+    {
+      "start": 2.64,
+      "end": 3.06,
+      "text": "hmm",
+      "features": {
+        "f0_median_st": -1.2000000000000042,
+        "f0_range_st": 6.49,
+        "rms_relative_db": -0.08286332339048386,
+        "speech_rate_wpm": 97.29729729729729,
+        "whisper_avg_logprob": -0.26068743211882456,
+        "pause_after_seconds": 0.0
+      }
+    },
+    {
+      "start": 3.06,
+      "end": 3.18,
+      "text": "hmm",
+      "features": {
+        "f0_median_st": 2.399999999999998,
+        "f0_range_st": 0.7799999999999976,
+        "rms_relative_db": -0.15921783447265625,
+        "speech_rate_wpm": 113.92405063291139,
+        "whisper_avg_logprob": -0.26068743211882456,
+        "pause_after_seconds": null
+      }
+    }
+  ],
+  "summary_metrics": {
+    "words_per_minute": 113.2075471698113,
+    "filler_count": 6,
+    "median_pause_seconds": 0.0,
+    "long_pause_count": 0
+  }
+}
